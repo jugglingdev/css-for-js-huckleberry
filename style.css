@@ -29,14 +29,15 @@ header .max-width-wrapper {
 }
 
 h1 {
-  margin-bottom: 48px;
-  font-size: 32px;
+  margin-bottom: 3rem;
+  font-size: 2rem;
+  line-height: 1.2;
   font-weight: 800;
 }
 
 p {
-  margin-bottom: 16px;
-  font-size: 20px;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
   line-height: 1.5;
 }
 
@@ -66,12 +67,12 @@ section.max-width-wrapper {
 h2 {
   max-width: fit-content;
   margin-left: -32px;
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
   padding: 16px 32px;
   background-color: #FFBF00;
   border-bottom: 8px solid #CC9900; 
 
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 800;
 }
 
