@@ -41,6 +41,10 @@ p {
   line-height: 1.5;
 }
 
+p:last-child {
+  margin-bottom: 0;
+}
+
 strong {
   color: #009966;
   font-weight: 800;
@@ -58,10 +62,9 @@ section.max-width-wrapper {
 }
 
 .card {
-  padding: 8px 24px;
+  padding: 8px 24px 16px 24px;
   background-color: #FFF;
   border-bottom: 8px solid #999999;
-
 }
 
 h2 {
@@ -73,6 +76,7 @@ h2 {
   border-bottom: 8px solid #CC9900; 
 
   font-size: 1.5rem;
+  line-height: 1.2;
   font-weight: 800;
 }
 
