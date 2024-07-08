@@ -20,7 +20,7 @@ header {
 }
 
 header .max-width-wrapper {
-  max-width: 760px;
+  max-width: 752px;
   margin: 0 auto;
 }
 
@@ -52,7 +52,7 @@ main {
 }
 
 section.max-width-wrapper {
-  max-width: 808px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
